@@ -1,0 +1,10 @@
+Library,Version,Purpose,Installation
+OpenCV (cv2),4.5.5+,Computer vision and image processing,pip install opencv-python
+dlib,19.22+,Facial landmark detection and face recognition,pip install dlib
+imutils,0.5.4+,Convenience functions for OpenCV operations,pip install imutils
+scipy,1.7.0+,Euclidean distance calculations for EAR,pip install scipy
+numpy,1.21.0+,Numerical computing and array operations,pip install numpy
+threading,Built-in,Multi-threading for real-time processing,Standard library
+pygame,2.1.0+,Audio alarm system for drowsiness alerts,pip install pygame
+argparse,Built-in,Command-line argument parsing,Standard library
+time,Built-in,Time-based operations and delays,Standard library

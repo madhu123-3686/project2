@@ -1,0 +1,1178 @@
+{
+  "session_start": "2025-10-30T00:54:59.066729",
+  "session_end": "2025-10-30T00:55:16.916435",
+  "total_alerts": 0,
+  "total_frames_processed": 195,
+  "detection_events": [
+    {
+      "timestamp": "2025-10-30T00:55:04.559181",
+      "ear_value": 0.25270836885853787,
+      "alert_triggered": false,
+      "consecutive_frames": 1
+    },
+    {
+      "timestamp": "2025-10-30T00:55:04.870255",
+      "ear_value": 0.2821692469623761,
+      "alert_triggered": false,
+      "consecutive_frames": 2
+    },
+    {
+      "timestamp": "2025-10-30T00:55:05.040099",
+      "ear_value": 0.23513862861743973,
+      "alert_triggered": false,
+      "consecutive_frames": 3
+    },
+    {
+      "timestamp": "2025-10-30T00:55:05.228791",
+      "ear_value": 0.35364042580478994,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:05.294586",
+      "ear_value": 0.35364042580478994,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:05.360628",
+      "ear_value": 0.32400186028279554,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:05.424843",
+      "ear_value": 0.35883705885535316,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:05.488715",
+      "ear_value": 0.35883705885535316,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:05.551544",
+      "ear_value": 0.3439619926490858,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:05.615593",
+      "ear_value": 0.38088412594025833,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:05.679970",
+      "ear_value": 0.38088412594025833,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:05.741461",
+      "ear_value": 0.35633835299345085,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:05.793938",
+      "ear_value": 0.35633835299345085,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:05.846706",
+      "ear_value": 0.3654475151441845,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:05.906163",
+      "ear_value": 0.3671018258704129,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:05.968699",
+      "ear_value": 0.3671018258704129,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:06.032849",
+      "ear_value": 0.36344060611643414,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:06.085925",
+      "ear_value": 0.36344060611643414,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:06.141757",
+      "ear_value": 0.3626836461711936,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:06.210502",
+      "ear_value": 0.3409442689151151,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:06.271308",
+      "ear_value": 0.3409442689151151,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:06.334711",
+      "ear_value": 0.34737798114223295,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:06.400002",
+      "ear_value": 0.34737798114223295,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:06.464026",
+      "ear_value": 0.35432262487944144,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:06.527052",
+      "ear_value": 0.24027999206282627,
+      "alert_triggered": false,
+      "consecutive_frames": 1
+    },
+    {
+      "timestamp": "2025-10-30T00:55:06.589050",
+      "ear_value": 0.24027999206282627,
+      "alert_triggered": false,
+      "consecutive_frames": 2
+    },
+    {
+      "timestamp": "2025-10-30T00:55:06.655080",
+      "ear_value": 0.2554978690278791,
+      "alert_triggered": false,
+      "consecutive_frames": 3
+    },
+    {
+      "timestamp": "2025-10-30T00:55:06.718191",
+      "ear_value": 0.3126741854832673,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:06.769819",
+      "ear_value": 0.3126741854832673,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:06.823639",
+      "ear_value": 0.2972892990408481,
+      "alert_triggered": false,
+      "consecutive_frames": 1
+    },
+    {
+      "timestamp": "2025-10-30T00:55:06.876437",
+      "ear_value": 0.2972892990408481,
+      "alert_triggered": false,
+      "consecutive_frames": 2
+    },
+    {
+      "timestamp": "2025-10-30T00:55:06.940061",
+      "ear_value": 0.3184610090503689,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:07.007915",
+      "ear_value": 0.35132194247063436,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:07.071511",
+      "ear_value": 0.35132194247063436,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:07.125854",
+      "ear_value": 0.3378448474345266,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:07.184405",
+      "ear_value": 0.3378448474345266,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:07.239001",
+      "ear_value": 0.3403663218172434,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:07.296891",
+      "ear_value": 0.3403663218172434,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:07.360355",
+      "ear_value": 0.33257624062847446,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:07.423430",
+      "ear_value": 0.34029575070367185,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:07.488152",
+      "ear_value": 0.34029575070367185,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:07.547296",
+      "ear_value": 0.30016620323601384,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:07.614383",
+      "ear_value": 0.30016620323601384,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:07.665401",
+      "ear_value": 0.308215069242888,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:07.727866",
+      "ear_value": 0.32324952503315807,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:07.794499",
+      "ear_value": 0.32324952503315807,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:07.850067",
+      "ear_value": 0.3089897219153711,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:07.912611",
+      "ear_value": 0.3089897219153711,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:07.966554",
+      "ear_value": 0.35897538813219265,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:08.023160",
+      "ear_value": 0.32739830072667164,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:08.078752",
+      "ear_value": 0.32739830072667164,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:08.135477",
+      "ear_value": 0.3059874275972602,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:08.191739",
+      "ear_value": 0.3059874275972602,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:08.255381",
+      "ear_value": 0.3295310352816171,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:08.319040",
+      "ear_value": 0.32344328762772107,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:08.384988",
+      "ear_value": 0.32344328762772107,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:08.443252",
+      "ear_value": 0.33397137856636705,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:08.510316",
+      "ear_value": 0.34194012744705926,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:08.577900",
+      "ear_value": 0.34194012744705926,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:08.635803",
+      "ear_value": 0.3242395129488165,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:08.688572",
+      "ear_value": 0.3242395129488165,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:08.750729",
+      "ear_value": 0.33005058564592427,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:08.815889",
+      "ear_value": 0.3114989028075203,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:08.882716",
+      "ear_value": 0.3114989028075203,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:08.942194",
+      "ear_value": 0.3114367495156909,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:09.009528",
+      "ear_value": 0.36316979061155796,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:09.066421",
+      "ear_value": 0.36316979061155796,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:09.121241",
+      "ear_value": 0.3608532141745143,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:09.176631",
+      "ear_value": 0.3608532141745143,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:09.239595",
+      "ear_value": 0.33268982305947237,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:09.296322",
+      "ear_value": 0.33268982305947237,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:09.360386",
+      "ear_value": 0.38590048016391726,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:09.424062",
+      "ear_value": 0.33730218537364065,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:09.488985",
+      "ear_value": 0.33730218537364065,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:09.542691",
+      "ear_value": 0.33661218948453664,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:09.600738",
+      "ear_value": 0.33661218948453664,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:09.661828",
+      "ear_value": 0.2873436070697398,
+      "alert_triggered": false,
+      "consecutive_frames": 1
+    },
+    {
+      "timestamp": "2025-10-30T00:55:09.725852",
+      "ear_value": 0.2719096200855929,
+      "alert_triggered": false,
+      "consecutive_frames": 2
+    },
+    {
+      "timestamp": "2025-10-30T00:55:09.792191",
+      "ear_value": 0.2719096200855929,
+      "alert_triggered": false,
+      "consecutive_frames": 3
+    },
+    {
+      "timestamp": "2025-10-30T00:55:09.857785",
+      "ear_value": 0.2133971756077908,
+      "alert_triggered": false,
+      "consecutive_frames": 4
+    },
+    {
+      "timestamp": "2025-10-30T00:55:09.921773",
+      "ear_value": 0.20069031178716917,
+      "alert_triggered": false,
+      "consecutive_frames": 5
+    },
+    {
+      "timestamp": "2025-10-30T00:55:09.981830",
+      "ear_value": 0.20069031178716917,
+      "alert_triggered": false,
+      "consecutive_frames": 6
+    },
+    {
+      "timestamp": "2025-10-30T00:55:10.039583",
+      "ear_value": 0.22027120627958263,
+      "alert_triggered": false,
+      "consecutive_frames": 7
+    },
+    {
+      "timestamp": "2025-10-30T00:55:10.112906",
+      "ear_value": 0.2105778436970022,
+      "alert_triggered": false,
+      "consecutive_frames": 8
+    },
+    {
+      "timestamp": "2025-10-30T00:55:10.175580",
+      "ear_value": 0.2105778436970022,
+      "alert_triggered": false,
+      "consecutive_frames": 9
+    },
+    {
+      "timestamp": "2025-10-30T00:55:10.237863",
+      "ear_value": 0.2100690868582232,
+      "alert_triggered": false,
+      "consecutive_frames": 10
+    },
+    {
+      "timestamp": "2025-10-30T00:55:10.301131",
+      "ear_value": 0.2100690868582232,
+      "alert_triggered": false,
+      "consecutive_frames": 11
+    },
+    {
+      "timestamp": "2025-10-30T00:55:10.364279",
+      "ear_value": 0.3015112933756341,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:10.428774",
+      "ear_value": 0.29745553666663316,
+      "alert_triggered": false,
+      "consecutive_frames": 1
+    },
+    {
+      "timestamp": "2025-10-30T00:55:10.496168",
+      "ear_value": 0.29745553666663316,
+      "alert_triggered": false,
+      "consecutive_frames": 2
+    },
+    {
+      "timestamp": "2025-10-30T00:55:10.559904",
+      "ear_value": 0.29047012663561056,
+      "alert_triggered": false,
+      "consecutive_frames": 3
+    },
+    {
+      "timestamp": "2025-10-30T00:55:10.623329",
+      "ear_value": 0.2871833647751336,
+      "alert_triggered": false,
+      "consecutive_frames": 4
+    },
+    {
+      "timestamp": "2025-10-30T00:55:10.676322",
+      "ear_value": 0.2871833647751336,
+      "alert_triggered": false,
+      "consecutive_frames": 5
+    },
+    {
+      "timestamp": "2025-10-30T00:55:10.730692",
+      "ear_value": 0.30720785413284835,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:10.795694",
+      "ear_value": 0.30720785413284835,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:10.864160",
+      "ear_value": 0.3069581363984084,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:10.927314",
+      "ear_value": 0.31710086503346846,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:10.992218",
+      "ear_value": 0.31710086503346846,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:11.052256",
+      "ear_value": 0.3097995084592128,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:11.106735",
+      "ear_value": 0.3097995084592128,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:11.175165",
+      "ear_value": 0.30407483296926574,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:11.236660",
+      "ear_value": 0.28218975305236604,
+      "alert_triggered": false,
+      "consecutive_frames": 1
+    },
+    {
+      "timestamp": "2025-10-30T00:55:11.312495",
+      "ear_value": 0.31226217790905253,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:11.379581",
+      "ear_value": 0.31226217790905253,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:11.443220",
+      "ear_value": 0.3039365604679346,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:11.507940",
+      "ear_value": 0.3039365604679346,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:11.567023",
+      "ear_value": 0.2994316301374664,
+      "alert_triggered": false,
+      "consecutive_frames": 1
+    },
+    {
+      "timestamp": "2025-10-30T00:55:11.631189",
+      "ear_value": 0.31027366411058216,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:11.698000",
+      "ear_value": 0.31027366411058216,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:11.760360",
+      "ear_value": 0.3093740965518542,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:11.823938",
+      "ear_value": 0.3206098919930162,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:11.876543",
+      "ear_value": 0.3206098919930162,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:11.939061",
+      "ear_value": 0.3487101146548469,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:11.998314",
+      "ear_value": 0.3487101146548469,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:12.064629",
+      "ear_value": 0.33662377818099365,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:12.128880",
+      "ear_value": 0.3399906070426595,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:12.191105",
+      "ear_value": 0.3399906070426595,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:12.249308",
+      "ear_value": 0.3694444756569312,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:12.304264",
+      "ear_value": 0.3694444756569312,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:12.366798",
+      "ear_value": 0.3637662341440982,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:12.429253",
+      "ear_value": 0.3412742406090612,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:12.496443",
+      "ear_value": 0.3412742406090612,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:12.560739",
+      "ear_value": 0.3527536849628885,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:12.624372",
+      "ear_value": 0.3326137869050735,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:12.676550",
+      "ear_value": 0.3326137869050735,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:12.741168",
+      "ear_value": 0.3127674156815824,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:12.797780",
+      "ear_value": 0.3127674156815824,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:12.851084",
+      "ear_value": 0.30433298242631734,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:12.910315",
+      "ear_value": 0.31202315359170585,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:12.963688",
+      "ear_value": 0.31202315359170585,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:13.027140",
+      "ear_value": 0.3218079575206789,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:13.087783",
+      "ear_value": 0.3218079575206789,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:13.165696",
+      "ear_value": 0.29929392595428705,
+      "alert_triggered": false,
+      "consecutive_frames": 1
+    },
+    {
+      "timestamp": "2025-10-30T00:55:13.230322",
+      "ear_value": 0.3288760945988899,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:13.292565",
+      "ear_value": 0.3288760945988899,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:13.356212",
+      "ear_value": 0.29216822353508143,
+      "alert_triggered": false,
+      "consecutive_frames": 1
+    },
+    {
+      "timestamp": "2025-10-30T00:55:13.420227",
+      "ear_value": 0.29216822353508143,
+      "alert_triggered": false,
+      "consecutive_frames": 2
+    },
+    {
+      "timestamp": "2025-10-30T00:55:13.484987",
+      "ear_value": 0.3000571889962027,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:13.548739",
+      "ear_value": 0.31769143689064455,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:13.605890",
+      "ear_value": 0.31769143689064455,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:13.662710",
+      "ear_value": 0.3171899695286454,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:13.726790",
+      "ear_value": 0.3285201389362498,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:13.794774",
+      "ear_value": 0.3285201389362498,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:13.851068",
+      "ear_value": 0.3177868384440137,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:13.904741",
+      "ear_value": 0.3177868384440137,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:13.965895",
+      "ear_value": 0.3368291868808083,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:14.029956",
+      "ear_value": 0.31693174621548986,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:14.080998",
+      "ear_value": 0.31693174621548986,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:14.144701",
+      "ear_value": 0.3176977339488367,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:14.210764",
+      "ear_value": 0.3176977339488367,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:14.271855",
+      "ear_value": 0.3107840157883903,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:14.335125",
+      "ear_value": 0.3279232700208816,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:14.397317",
+      "ear_value": 0.3279232700208816,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:14.462049",
+      "ear_value": 0.3110347428932885,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:14.526227",
+      "ear_value": 0.3231621647440837,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:14.579112",
+      "ear_value": 0.3231621647440837,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:14.640758",
+      "ear_value": 0.3170172662842893,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:14.703101",
+      "ear_value": 0.3170172662842893,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:14.756274",
+      "ear_value": 0.3177868384440137,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:14.816568",
+      "ear_value": 0.3171240813864506,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:14.869536",
+      "ear_value": 0.3171240813864506,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:14.921901",
+      "ear_value": 0.3171240813864506,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:14.974649",
+      "ear_value": 0.3097317918499171,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:15.041095",
+      "ear_value": 0.35386371536865624,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:15.103444",
+      "ear_value": 0.35386371536865624,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:15.160060",
+      "ear_value": 0.34295001478750753,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:15.213210",
+      "ear_value": 0.3510339366364692,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:15.264259",
+      "ear_value": 0.3510339366364692,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:15.316150",
+      "ear_value": 0.3510339366364692,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:15.373965",
+      "ear_value": 0.29797263334121005,
+      "alert_triggered": false,
+      "consecutive_frames": 1
+    },
+    {
+      "timestamp": "2025-10-30T00:55:15.428365",
+      "ear_value": 0.3278518036013376,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:15.488948",
+      "ear_value": 0.3278518036013376,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:15.553436",
+      "ear_value": 0.34544116513500145,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:15.618993",
+      "ear_value": 0.3568791511866647,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:15.669819",
+      "ear_value": 0.3568791511866647,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:15.722067",
+      "ear_value": 0.3568791511866647,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:15.774063",
+      "ear_value": 0.33811545283120603,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:15.825865",
+      "ear_value": 0.3562281732097452,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:15.887544",
+      "ear_value": 0.3562281732097452,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:15.943416",
+      "ear_value": 0.3374412822248507,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:15.994178",
+      "ear_value": 0.3374412822248507,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:16.050924",
+      "ear_value": 0.35225515038090094,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:16.115023",
+      "ear_value": 0.35225515038090094,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:16.175014",
+      "ear_value": 0.319574502575134,
+      "alert_triggered": false,
+      "consecutive_frames": 0
+    },
+    {
+      "timestamp": "2025-10-30T00:55:16.228436",
+      "ear_value": 0.28545507492803224,
+      "alert_triggered": false,
+      "consecutive_frames": 1
+    },
+    {
+      "timestamp": "2025-10-30T00:55:16.289226",
+      "ear_value": 0.28545507492803224,
+      "alert_triggered": false,
+      "consecutive_frames": 2
+    },
+    {
+      "timestamp": "2025-10-30T00:55:16.347228",
+      "ear_value": 0.29054772354368985,
+      "alert_triggered": false,
+      "consecutive_frames": 3
+    },
+    {
+      "timestamp": "2025-10-30T00:55:16.398720",
+      "ear_value": 0.29054772354368985,
+      "alert_triggered": false,
+      "consecutive_frames": 4
+    },
+    {
+      "timestamp": "2025-10-30T00:55:16.461082",
+      "ear_value": 0.2872618991599162,
+      "alert_triggered": false,
+      "consecutive_frames": 5
+    },
+    {
+      "timestamp": "2025-10-30T00:55:16.524864",
+      "ear_value": 0.2872618991599162,
+      "alert_triggered": false,
+      "consecutive_frames": 6
+    },
+    {
+      "timestamp": "2025-10-30T00:55:16.586978",
+      "ear_value": 0.25841092692863865,
+      "alert_triggered": false,
+      "consecutive_frames": 7
+    },
+    {
+      "timestamp": "2025-10-30T00:55:16.648437",
+      "ear_value": 0.24607990065437751,
+      "alert_triggered": false,
+      "consecutive_frames": 8
+    },
+    {
+      "timestamp": "2025-10-30T00:55:16.704413",
+      "ear_value": 0.24607990065437751,
+      "alert_triggered": false,
+      "consecutive_frames": 9
+    },
+    {
+      "timestamp": "2025-10-30T00:55:16.764869",
+      "ear_value": 0.26074911919777966,
+      "alert_triggered": false,
+      "consecutive_frames": 10
+    },
+    {
+      "timestamp": "2025-10-30T00:55:16.828131",
+      "ear_value": 0.26074911919777966,
+      "alert_triggered": false,
+      "consecutive_frames": 11
+    }
+  ]
+}

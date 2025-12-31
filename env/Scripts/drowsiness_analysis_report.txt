@@ -1,0 +1,33 @@
+
+DROWSINESS DETECTION SYSTEM - ANALYSIS REPORT
+Generated: 2025-10-31 18:27:55
+
+=== SESSION SUMMARY ===
+Total Sessions Analyzed: 2
+Total Detection Events: 1931
+Total Alerts Triggered: 3
+Alert Rate: 0.16%
+
+=== EAR STATISTICS ===
+Mean EAR: 0.292
+Median EAR: 0.298
+Standard Deviation: 0.066
+Minimum EAR: 0.100
+Maximum EAR: 0.528
+
+=== PERFORMANCE METRICS ===
+- EAR values below threshold (0.3): 985 events (51.0%)
+- Average consecutive frames during alerts: 48.0
+- Maximum consecutive frames: 246
+
+=== RECOMMENDATIONS ===
+Based on the analysis:
+1. Current EAR threshold (0.3) appears appropriate
+2. Frame count threshold should be maintained
+3. System performed well
+
+=== DATA QUALITY ===
+- No missing values: True
+- EAR range check: All values between 0 and 1: True
+- Timestamp continuity: 1931 events processed
+        

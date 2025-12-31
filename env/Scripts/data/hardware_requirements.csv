@@ -1,0 +1,6 @@
+Component,Minimum Specification,Recommended Specification,Purpose
+Webcam/Camera,"USB webcam, 2MP, 30fps","HD webcam, 5MP+, 60fps",Real-time video capture of driver face
+Processor,Intel i3 or equivalent,Intel i5 or equivalent,Real-time image processing and ML inference
+RAM,4GB RAM,8GB+ RAM,Buffer video frames and model operations
+Storage,2GB free space,5GB+ free space,"Store models, datasets, and logs"
+Audio Output,Speakers/Headphones,External speakers,Alert system for drowsiness warnings
